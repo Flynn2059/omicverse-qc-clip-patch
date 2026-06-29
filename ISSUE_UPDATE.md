@@ -39,5 +39,7 @@ Result:
 16 passed
 ```
 
-I am preparing a small public repository with the patch summary and usage notes so the change is easy to review or reproduce.
+I have published a small public repository with the patch summary and usage notes so the change is easy to review or reproduce:
+
+https://github.com/Flynn2059/omicverse-qc-clip-patch
 ```
