@@ -84,4 +84,4 @@ This repository is intended to make the implementation easy to inspect, reproduc
 
 ## License Context
 
-OmicVerse is licensed under GPLv3. The patch in this repository is intended for use with OmicVerse and should be treated as an OmicVerse-derived patch under the upstream project's license terms.
+OmicVerse is licensed under GPLv3. The patch in this repository is intended for use with OmicVerse and should be treated as an OmicVerse-derived patch under the upstream project's license terms. The standalone documentation in this repository may be reused under MIT terms; see `LICENSE` for the full notice.
